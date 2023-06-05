@@ -1,0 +1,9 @@
+/venv/
+/.idea/
+.idea/.gitignore
+.idea/DevAnime.iml
+        new file:   .idea/inspectionProfiles/Project_Default.xml
+        new file:   .idea/inspectionProfiles/profiles_settings.xml
+        new file:   .idea/misc.xml
+        new file:   .idea/modules.xml
+        new file:   .idea/vcs.xml
